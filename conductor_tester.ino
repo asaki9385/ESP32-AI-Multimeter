@@ -68,9 +68,9 @@ const float V_IN     = 3300.0f;
 const float THR_GOOD = 100.0f;
 const float THR_WEAK = 10000.0f;
 
-const char* ssid     = "CMCC-ASAKI";
-const char* password = "13420663307";
-const char* apiKey   = "sk-e324e18782fe40c69f7fa48996d6edcb";
+const char* ssid     = "WIFI_NAME";
+const char* password = "PASSWORD";
+const char* apiKey   = "API_KEY";
 
 enum DetectState {
   STATE_NONE,
