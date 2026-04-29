@@ -95,8 +95,8 @@ AI层 → API调用（DeepSeek / 其他模型）
 ---
 
 ## 📷 项目展示
+<img width="3072" height="4096" alt="微信图片_20260423212716_118_53" src="https://github.com/user-attachments/assets/b240f138-5bc1-45c8-9dde-23bc42f93f13" />
 
-（这里放你的实物图 / UI截图 / demo.gif）
 
 ---
 
